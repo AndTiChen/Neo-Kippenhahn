@@ -1,6 +1,5 @@
-<img width="2560" height="1600" alt="test_12msolzsol" src="https://github.com/user-attachments/assets/60f62b73-7f21-4b11-a7cc-9a41437eb4be" />
 # Neo-Kippenhahn: "star slice" Kippenhahn diagrams for MESA
-
+<img width="2560" height="1600" alt="test_12msolzsol" src="https://github.com/user-attachments/assets/60f62b73-7f21-4b11-a7cc-9a41437eb4be" />
 A classic **Kippenhahn diagram** puts time (model number) on the x-axis and mass on the y-axis. It packs a lot in, but it's hard to read if you're new to stellar evolution. It's a bit like slicing a hot dog the long way.
 
 This program draws the same information as **a cross-section of the star, one image per model**. Flip through the images, or turn them into a movie, and you can watch the star's insides change over time.
